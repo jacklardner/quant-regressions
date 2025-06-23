@@ -1,2 +1,2 @@
 # quant-regressions
-testing!
+https://github.com/jacklardner/quant-regressions
